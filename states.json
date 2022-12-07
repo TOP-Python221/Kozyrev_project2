@@ -1,0 +1,17 @@
+{
+    "kind": "Cat",
+    "name": "Mars",
+    "birthday": "2022-12-07 15:25:58",
+    "mind_state": {
+        "timestamp": "2022-12-07 15:25:58",
+        "joy": 10,
+        "anger": 10
+    },
+    "body_state": {
+        "timestamp": "2022-12-07 15:25:58",
+        "health": 0,
+        "stamina": 0,
+        "hunger": 0,
+        "thirst": 0
+    }
+}
