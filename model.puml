@@ -1,5 +1,7 @@
 @startuml
 
+'КОММЕНТАРИЙ: не вижу работы с моделью
+
 <style>
     legend {
         FontName Fira Mono

@@ -31,7 +31,9 @@ class Creature:
         self.mind = mind
 
     def age(self):
-        return dt.now() - self.birthday.day  # Доделать нормальный формат времени
+        return (dt.now() - self.birthday).days
+        # КОММЕНТАРИЙ: это ерунда, вы с моделью и её реализацией сначала разберитесь
+        # Доделать нормальный формат времени
 
     def __str__(self):
         pass

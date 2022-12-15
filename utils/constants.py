@@ -12,5 +12,6 @@ class Kind(Enum):
 pathlike = str | Path
 
 
+# ИСПРАВИТЬ: это не класс, а переменная ссылающаяся на объекты абстрактных классов — для аннотации
 class KindActions:
     pass
